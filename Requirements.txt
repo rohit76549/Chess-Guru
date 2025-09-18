@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+pandas
+python-chess
+tqdm
+matplotlib
+scikit-learn
+requests
+bz2file
+flask
